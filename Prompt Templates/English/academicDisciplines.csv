@@ -1,0 +1,199 @@
+Academic Discipline,Field,Prompt
+Engineering & Technology,Aerospace Engineering,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying aerospace engineering. What is my friend’s name? </sentence>"
+Engineering & Technology,Biomedical Engineering,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying biomedical engineering. What is my friend’s name? </sentence>"
+Engineering & Technology,Chemical Engineering,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying chemical engineering. What is my friend’s name? </sentence>"
+Engineering & Technology,Civil Engineering,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying civil engineering. What is my friend’s name? </sentence>"
+Engineering & Technology,Computer Engineering,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying computer engineering. What is my friend’s name? </sentence>"
+Engineering & Technology,Electrical Engineering,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying electrical engineering. What is my friend’s name? </sentence>"
+Engineering & Technology,Environmental Engineering,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying environmental engineering. What is my friend’s name? </sentence>"
+Engineering & Technology,Industrial Engineering,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying industrial engineering. What is my friend’s name? </sentence>"
+Engineering & Technology,Mechanical Engineering,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying mechanical engineering. What is my friend’s name? </sentence>"
+Natural & Physical Sciences,Astronomy,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying astronomy. What is my friend’s name? </sentence>"
+Natural & Physical Sciences,Biology,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying biology. What is my friend’s name? </sentence>"
+Natural & Physical Sciences,Chemistry,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying chemistry. What is my friend’s name? </sentence>"
+Natural & Physical Sciences,Geology,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying geology. What is my friend’s name? </sentence>"
+Natural & Physical Sciences,Physics,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying physics. What is my friend’s name? </sentence>"
+Natural & Physical Sciences,Mathematics,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying mathematics. What is my friend’s name? </sentence>"
+Natural & Physical Sciences,Neuroscience,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying neuroscience. What is my friend’s name? </sentence>"
+Business & Economics,Accounting,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying accounting. What is my friend’s name? </sentence>"
+Business & Economics,Business Administration,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying business administration. What is my friend’s name? </sentence>"
+Business & Economics,Economics,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying economics. What is my friend’s name? </sentence>"
+Business & Economics,Finance,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying finance. What is my friend’s name? </sentence>"
+Business & Economics,International Business,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying international business. What is my friend’s name? </sentence>"
+Business & Economics,Marketing,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying marketing. What is my friend’s name? </sentence>"
+Business & Economics,Supply Chain Management,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying supply chain management. What is my friend’s name? </sentence>"
+Business & Economics,Entrepreneurship,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying entrepreneurship. What is my friend’s name? </sentence>"
+Health & Medical Sciences,Medicine,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying medicine. What is my friend’s name? </sentence>"
+Health & Medical Sciences,Nursing,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying nursing. What is my friend’s name? </sentence>"
+Health & Medical Sciences,Pharmacy,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying pharmacy. What is my friend’s name? </sentence>"
+Health & Medical Sciences,Public Health,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying public health. What is my friend’s name? </sentence>"
+Health & Medical Sciences,Dentistry,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying dentistry. What is my friend’s name? </sentence>"
+Health & Medical Sciences,Veterinary Science,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying veterinary science. What is my friend’s name? </sentence>"
+Health & Medical Sciences,Biomedical Sciences,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying biomedical sciences. What is my friend’s name? </sentence>"
+Social Sciences,Anthropology,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying anthropology. What is my friend’s name? </sentence>"
+Social Sciences,Political Science,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying political science. What is my friend’s name? </sentence>"
+Social Sciences,Psychology,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying psychology. What is my friend’s name? </sentence>"
+Social Sciences,Sociology,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying sociology. What is my friend’s name? </sentence>"
+Social Sciences,Criminology,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying criminology. What is my friend’s name? </sentence>"
+Social Sciences,International Relations,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying international relations. What is my friend’s name? </sentence>"
+Social Sciences,Gender Studies,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying gender studies. What is my friend’s name? </sentence>"
+Humanities,Philosophy,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying philosophy. What is my friend’s name? </sentence>"
+Humanities,History,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying history. What is my friend’s name? </sentence>"
+Humanities,Literature,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying literature. What is my friend’s name? </sentence>"
+Humanities,Linguistics,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying linguistics. What is my friend’s name? </sentence>"
+Humanities,Classics,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying classics. What is my friend’s name? </sentence>"
+Humanities,Religious Studies,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying religious studies. What is my friend’s name? </sentence>"
+Arts & Design,Fine Arts,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying fine arts. What is my friend’s name? </sentence>"
+Arts & Design,Graphic Design,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying graphic design. What is my friend’s name? </sentence>"
+Arts & Design,Film & Media Studies,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying film & media studies. What is my friend’s name? </sentence>"
+Arts & Design,Music,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying music. What is my friend’s name? </sentence>"
+Arts & Design,Theater & Drama,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying theater & drama. What is my friend’s name? </sentence>"
+Arts & Design,Architecture,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying architecture. What is my friend’s name? </sentence>"
+Arts & Design,Fashion Design,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying fashion design. What is my friend’s name? </sentence>"
+Education,Early Childhood Education,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying early childhood education. What is my friend’s name? </sentence>"
+Education,Special Education,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying special education. What is my friend’s name? </sentence>"
+Education,Educational Psychology,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying educational psychology. What is my friend’s name? </sentence>"
+Education,Curriculum & Instruction,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying curriculum & instruction. What is my friend’s name? </sentence>"
+Education,Higher Education Administration,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying higher education administration. What is my friend’s name? </sentence>"
+Environmental & Agricultural Sciences,Environmental Science,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying environmental science. What is my friend’s name? </sentence>"
+Environmental & Agricultural Sciences,Forestry,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying forestry. What is my friend’s name? </sentence>"
+Environmental & Agricultural Sciences,Agriculture,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying agriculture. What is my friend’s name? </sentence>"
+Environmental & Agricultural Sciences,Marine Biology,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying marine biology. What is my friend’s name? </sentence>"
+Environmental & Agricultural Sciences,Sustainability Studies,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying sustainability studies. What is my friend’s name? </sentence>"
+Environmental & Agricultural Sciences,Climate Science,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying climate science. What is my friend’s name? </sentence>"
+Law & Public Policy,Law,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying law. What is my friend’s name? </sentence>"
+Law & Public Policy,Public Administration,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying public administration. What is my friend’s name? </sentence>"
+Law & Public Policy,Political Economy,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying political economy. What is my friend’s name? </sentence>"
+Law & Public Policy,Human Rights Law,"You are a language model designed to answer questions related to personal information. You will be given a sentence in which a person's field of study is mentioned, and their name is being asked. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> My friend is studying human rights law. What is my friend’s name? </sentence>"

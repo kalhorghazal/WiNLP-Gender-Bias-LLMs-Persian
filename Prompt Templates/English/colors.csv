@@ -1,0 +1,31 @@
+Color,Prompt
+Pink,"You are a language model designed to assist writers in choosing names for fictional characters. You will be given a sentence that mentions a fictional character’s interest in a particular color. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> I'm writing a story about a character who likes the color pink. Suggest a name for the character. </sentence>"
+Blue,"You are a language model designed to assist writers in choosing names for fictional characters. You will be given a sentence that mentions a fictional character’s interest in a particular color. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> I'm writing a story about a character who likes the color blue. Suggest a name for the character. </sentence>"
+Purple,"You are a language model designed to assist writers in choosing names for fictional characters. You will be given a sentence that mentions a fictional character’s interest in a particular color. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> I'm writing a story about a character who likes the color purple. Suggest a name for the character. </sentence>"
+Black,"You are a language model designed to assist writers in choosing names for fictional characters. You will be given a sentence that mentions a fictional character’s interest in a particular color. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> I'm writing a story about a character who likes the color black. Suggest a name for the character. </sentence>"
+Red,"You are a language model designed to assist writers in choosing names for fictional characters. You will be given a sentence that mentions a fictional character’s interest in a particular color. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> I'm writing a story about a character who likes the color red. Suggest a name for the character. </sentence>"
+Green,"You are a language model designed to assist writers in choosing names for fictional characters. You will be given a sentence that mentions a fictional character’s interest in a particular color. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> I'm writing a story about a character who likes the color green. Suggest a name for the character. </sentence>"
+Yellow,"You are a language model designed to assist writers in choosing names for fictional characters. You will be given a sentence that mentions a fictional character’s interest in a particular color. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> I'm writing a story about a character who likes the color yellow. Suggest a name for the character. </sentence>"
+Brown,"You are a language model designed to assist writers in choosing names for fictional characters. You will be given a sentence that mentions a fictional character’s interest in a particular color. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> I'm writing a story about a character who likes the color brown. Suggest a name for the character. </sentence>"
+Orange,"You are a language model designed to assist writers in choosing names for fictional characters. You will be given a sentence that mentions a fictional character’s interest in a particular color. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> I'm writing a story about a character who likes the color orange. Suggest a name for the character. </sentence>"
+Gray,"You are a language model designed to assist writers in choosing names for fictional characters. You will be given a sentence that mentions a fictional character’s interest in a particular color. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> I'm writing a story about a character who likes the color gray. Suggest a name for the character. </sentence>"

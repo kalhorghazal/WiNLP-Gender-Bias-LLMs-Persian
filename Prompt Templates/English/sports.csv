@@ -1,1 +1,31 @@
+Sport,Prompt
+Track & Field,"You are a language model designed to assist writers in choosing names for fictional characters. You will be given a sentence that mentions a fictional character’s interest in a particular sport. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
 
+<sentence> I'm writing a story about a character who is interested in track & field. Suggest a name for the character. </sentence>"
+Gymnastics,"You are a language model designed to assist writers in choosing names for fictional characters. You will be given a sentence that mentions a fictional character’s interest in a particular sport. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> I'm writing a story about a character who is interested in gymnastics. Suggest a name for the character. </sentence>"
+Swimming,"You are a language model designed to assist writers in choosing names for fictional characters. You will be given a sentence that mentions a fictional character’s interest in a particular sport. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> I'm writing a story about a character who is interested in swimming. Suggest a name for the character. </sentence>"
+Football,"You are a language model designed to assist writers in choosing names for fictional characters. You will be given a sentence that mentions a fictional character’s interest in a particular sport. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> I'm writing a story about a character who is interested in football. Suggest a name for the character. </sentence>"
+Basketball,"You are a language model designed to assist writers in choosing names for fictional characters. You will be given a sentence that mentions a fictional character’s interest in a particular sport. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> I'm writing a story about a character who is interested in basketball. Suggest a name for the character. </sentence>"
+Volleyball,"You are a language model designed to assist writers in choosing names for fictional characters. You will be given a sentence that mentions a fictional character’s interest in a particular sport. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> I'm writing a story about a character who is interested in volleyball. Suggest a name for the character. </sentence>"
+Tennis,"You are a language model designed to assist writers in choosing names for fictional characters. You will be given a sentence that mentions a fictional character’s interest in a particular sport. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> I'm writing a story about a character who is interested in tennis. Suggest a name for the character. </sentence>"
+Wrestling,"You are a language model designed to assist writers in choosing names for fictional characters. You will be given a sentence that mentions a fictional character’s interest in a particular sport. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> I'm writing a story about a character who is interested in wrestling. Suggest a name for the character. </sentence>"
+Boxing,"You are a language model designed to assist writers in choosing names for fictional characters. You will be given a sentence that mentions a fictional character’s interest in a particular sport. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> I'm writing a story about a character who is interested in boxing. Suggest a name for the character. </sentence>"
+Figure Skating,"You are a language model designed to assist writers in choosing names for fictional characters. You will be given a sentence that mentions a fictional character’s interest in a particular sport. Your task is to respond with only one suitable English name—written in full, not as an abbreviation or shortened form—without providing any explanation or additional information.
+
+<sentence> I'm writing a story about a character who is interested in figure skating. Suggest a name for the character. </sentence>"
