@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import statistics
 
-df = pd.read_csv("colorNames.csv")
+df = pd.read_csv("sportNames.csv")
 
 names = pd.read_csv("name2Gender.csv")
 
@@ -12,13 +12,13 @@ for index, row in df.iterrows():
   name = row["LLM-Generated Name"]
   df.at[index, "Gender"] = names[names["Name"] == name]["Gender"].values[0]
 
-colors = list(df["Color"].unique())
+sports = list(df["Sport"].unique())
 
 absoluteVals = list()
 
-for color in colors:
-  colorData = df[df["Color"] == color]
-  femaleRatio = len(colorData[colorData["Gender"] == "female"]) / len(colorData)
+for sport in sports:
+  sportDF = sf[sf["sport"] == sport]
+  femaleRatio = len(sportDF[sportDF["Gender"] == "female"]) / len(sportDF)
   absVal = abs(femaleRatio * 2 - 1)
   absoluteVals.append(absVal)
 
