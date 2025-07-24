@@ -1,4 +1,4 @@
-# AACL-Gender-Bias-LLMs-Persian
+# WiNLP-Gender-Bias-LLMs-Persian
 
 This repository contains the dataset and analysis code for the paper:
 
