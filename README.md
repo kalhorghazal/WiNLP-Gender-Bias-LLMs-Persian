@@ -22,6 +22,7 @@ Our datasets and scripts are classified into the following folders:
 
 If you use our dataset or analysis code in your work, please cite our paper as below.
 
+```
 @inproceedings{kalhor2025genderbias,
   author    = {Kalhor, Ghazal and Bahrak, Behnam},
   title     = {Probing Gender Bias in Multilingual LLMs: A Case Study of Stereotypes in Persian},
@@ -31,4 +32,5 @@ If you use our dataset or analysis code in your work, please cite our paper as b
   month     = nov,
   note      = {Accepted for publication}
 }
+```
 
