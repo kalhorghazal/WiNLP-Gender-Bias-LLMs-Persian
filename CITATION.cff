@@ -18,8 +18,5 @@ preferred-citation:
     - family-names: "Bahrak"
       given-names: "Behnam"
   title: "Probing Gender Bias in Multilingual LLMs: A Case Study of Stereotypes in Persian"
-  booktitle: "Proceedings of the Ninth Widening Natural Language Processing Workshop (WiNLP 2025)"
-  address: "Suzhou, China"
-  month: "November"
+  journal: "Proceedings of the Ninth Widening Natural Language Processing Workshop (WiNLP 2025)"
   year: 2025
-  note: "Accepted for publication"
