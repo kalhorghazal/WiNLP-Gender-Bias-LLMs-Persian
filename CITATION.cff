@@ -1,26 +1,25 @@
 cff-version: 1.2.0
-message: "If you use this work, please cite it as below."
+message: "If you use our dataset or analysis code in your work, please cite our paper as below."
 authors:
   - family-names: "Kalhor"
     given-names: "Ghazal"
-  - family-names: "Gardner"
-    given-names: "Hannah"
-  - family-names: "Weber"
-    given-names: "Ingmar"
-  - family-names: "Kashyap"
-    given-names: "Ridhi"
-title: "Gender Gaps in Online Social Connectivity, Promotion and Relocation Reports on LinkedIn"
-conference:
-  name: "Proceedings of the International AAAI Conference on Web and Social Media"
-  number: 18
-  location: "Buffalo, NY, USA"
-  date-start: 2024-06-03
-  date-end: 2024-06-06
-  publisher:
-    name: "AAAI Press"
-year: 2024
-start: "800"
-end: "812"
-doi: "10.1609/icwsm.v18i1.31353"
-url: "https://doi.org/10.1609/icwsm.v18i1.31353"
-type: conference-paper
+    orcid: "https://orcid.org/0000-0002-6153-9048"
+  - family-names: "Bahrak"
+    given-names: "Behnam"
+title: "Probing Gender Bias in Multilingual LLMs: A Case Study of Stereotypes in Persian"
+version: 1.0.0
+date-released: 2025-09-15
+preferred-citation:
+  type: inproceedings
+  authors:
+    - family-names: "Kalhor"
+      given-names: "Ghazal"
+      orcid: "https://orcid.org/0000-0002-6153-9048"
+    - family-names: "Bahrak"
+      given-names: "Behnam"
+  title: "Probing Gender Bias in Multilingual LLMs: A Case Study of Stereotypes in Persian"
+  booktitle: "Proceedings of the Ninth Widening Natural Language Processing Workshop (WiNLP 2025)"
+  address: "Suzhou, China"
+  month: "November"
+  year: 2025
+  note: "Accepted for publication"
