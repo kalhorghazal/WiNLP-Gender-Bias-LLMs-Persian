@@ -31,6 +31,8 @@ If you use our dataset or analysis code in your work, please cite our paper as b
   address   = {Suzhou, China},
   month     = nov,
   note      = {Accepted for publication}
+  doi       = {10.48550/arXiv.2509.20168},
+  url       = {https://arxiv.org/abs/2509.20168}
 }
 ```
 
