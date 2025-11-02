@@ -25,16 +25,17 @@ Our datasets and scripts are classified into the following folders:
 If you use our dataset or analysis code in your work, please cite our paper as below.
 
 ```
-@inproceedings{kalhor2025genderbias,
+@inproceedings{kalhor-bahrak-2025-probing,
+  title     = {Probing Gender Bias in Multilingual {LLM}s: A Case Study of Stereotypes in {P}ersian},
   author    = {Kalhor, Ghazal and Bahrak, Behnam},
-  title     = {Probing Gender Bias in Multilingual LLMs: A Case Study of Stereotypes in Persian},
-  booktitle = {Proceedings of the Ninth Widening Natural Language Processing Workshop (WiNLP 2025)},
+  booktitle = {Proceedings of the 9th Widening NLP Workshop},
+  month     = nov,
   year      = {2025},
   address   = {Suzhou, China},
-  month     = nov,
-  note      = {Accepted for publication},
-  doi       = {10.48550/arXiv.2509.20168},
-  url       = {https://arxiv.org/abs/2509.20168}
+  publisher = {Association for Computational Linguistics},
+  pages     = {19--27},
+  url       = {https://aclanthology.org/2025.winlp-main.3/},
+  ISBN      = {979-8-89176-351-7}
 }
 ```
 
